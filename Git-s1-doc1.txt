@@ -1,1 +1,2 @@
 Este es el archivo 1 de la carpeta de git-s1
+Nuevo dato del archivo
